@@ -1,5 +1,5 @@
 # Logger
-안드로이드 앱 개발 Log를 편하게 찍을 수 있게 도와주는 클래스Cancel changes
+안드로이드 앱 개발 Log를 편하게 찍을 수 있게 도와주는 클래스
 
 
     public class Logger {
